@@ -1,9 +1,0 @@
-2023-08-07 15:36:32 [INFO] Running PandasAI with openai LLM...
-2023-08-07 15:36:32 [INFO] Prompt ID: 4f74a217-2035-4461-8cc9-5bfb31e5a4e3
-2023-08-07 15:36:33 [INFO] error_code=insufficient_quota error_message='You exceeded your current quota, please check your plan and billing details.' error_param=None error_type=insufficient_quota message='OpenAI API error received' stream_error=False
-2023-08-07 15:46:39 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
-2023-08-07 16:35:48 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
-2023-08-07 16:36:16 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
-2023-08-07 16:36:41 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
-2023-08-07 16:36:59 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
-2023-08-07 16:37:40 [WARNING] No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
